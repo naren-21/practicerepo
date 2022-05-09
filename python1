@@ -1,0 +1,17 @@
+x1=20
+x2=30
+y1=40
+y2=30
+sum1=x1+x2
+sum2=y1+y2
+mul1=x1*x2
+mul2=y1*y2
+x=1000
+if mul1<x:
+        print("mul1 is",mul1)
+else:
+     print("sum1 is",sum1)
+if mul2<x:
+        print("mul2 is",mil2)
+else:
+    print("sum2 is",sum2)
